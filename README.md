@@ -3,6 +3,5 @@ Babel - EPITECH project. The project consists in a client/server architecture vo
 
 # USAGE
 ```bash
-mkdir build && cd build && conan install .. && cmake .. -G “Unix
-Makefiles” && cmake –build .
+mkdir build && cd build && conan install .. && cmake .. -G “Unix Makefiles” && cmake –build .
 ```
